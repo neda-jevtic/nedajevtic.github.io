@@ -23,4 +23,20 @@
 - Helped with the implementation of a new reservation software, resulting in time cuts for invoice processing and accommodation availability check
 - Promoted and implemented sustainable tourism practices as part of the Slovenian Green Destination scheme
   
-### Projects
+## Projects
+### Evaluating prediction algorithms (project within AI with Deep Learning Course)
+
+Liver Disease Prediction: Utilized Python for Machine Learning to build, test and evaluate prediction algorithms in an effort to reduce burden on doctors
+
+### Tableau Analytics Challenge (Aalto University Capstone Project)
+
+The Tableau Analytics Challenge competition consisted of the statistics of the Finnish Transport and Communications Agency Traficom and the Finnish Transport Infrastructure Agency, which dealt with accidents and traffic safety in southern Finland. The objective of our team was to create insights based on the data that would help understand the problem areas of road safety. In particular, they were to provide views on how to reduce both the total number of accidents and how to identify dangerous traffic conditions and locations.
+
+### Text Mining (course project)
+
+Analyzed data about the public perception from IMDb movie reviews and drew insights on the potential of making a sequel
+
+### Data Mining (course projects)
+
+
+
