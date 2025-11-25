@@ -39,6 +39,6 @@ Analyzed data about the public perception from IMDb movie reviews and drew insig
 ### Data Mining (course projects)
 1. Designing the optimal pricing strategy of used cars through data mining
 2. Customer Default Prediction (link to PDF:)
-3. Store Data Scientist project (data acquisition, data cleaning, dealing with missing values, datasets merge with Pandas, EDA (Exploratory Data Analysis), customer segmentation, data insights for targeted marketing campaigns, inventory planning, expansion opportunities, seasonal and trend analysis)
+3. Store Data Scientist project (data acquisition, data cleaning, dealing with missing values, datasets merge with Pandas, EDA (Exploratory Data Analysis), customer segmentation, data insights for targeted marketing campaigns, inventory planning, expansion opportunities, seasonal and trend analysis) (/assets/Data_Mining_course_project_customer_default_prediction.pdf)
 
 
