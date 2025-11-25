@@ -49,4 +49,4 @@ Analyzed data about the public perception from IMDb movie reviews and drew insig
 
 ### SEBuddy - tutor for incoming exchange students (_December 2021 - May 2025_)
 
-
+#Note: Within the assets folder in this repository, you can find some of the PDFs of my course projects and R codes
