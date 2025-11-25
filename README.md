@@ -43,7 +43,7 @@ Analyzed data about the public perception from IMDb movie reviews and drew insig
 4. R Studio Project
 
 ## Volunteering
-### PRME Students community (UN Global Impact) - Mentorship Programme Coordinator (_July - December 2024_)
+### PRME Students community (UN Global Impact) - Mentorship Programme Coordinator (_July - December 2024, remote_)
 - Project management and coordination of the PGS Careers Mentorship Programme
 - Connected 25+ students from PRME signatory universities with 10+ mentors (industry professionals and university profressors) which helped them improve soft & technical skills within sustainability and increase their employability
 
