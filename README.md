@@ -30,7 +30,7 @@ Liver Disease Prediction: Utilized Python for Machine Learning to build, test an
 
 ### Tableau Analytics Challenge (Aalto University Capstone Project)
 
-The Tableau Analytics Challenge competition consisted of the statistics of the Finnish Transport and Communications Agency Traficom and the Finnish Transport Infrastructure Agency, which dealt with accidents and traffic safety in southern Finland. The objective of our team was to create insights based on the data that would help understand the problem areas of road safety. In particular, they were to provide views on how to reduce both the total number of accidents and how to identify dangerous traffic conditions and locations.
+The Tableau Analytics Challenge competition consisted of the statistics of the Finnish Transport and Communications Agency Traficom and the Finnish Transport Infrastructure Agency, which dealt with accidents and traffic safety in southern Finland. The objective of our team was to create insights based on the data that would help understand the problem areas of road safety. In particular, they were to provide views on how to reduce both the total number of accidents and how to identify dangerous traffic conditions and locations
 
 ### Text Mining (course project)
 
@@ -40,7 +40,7 @@ Analyzed data about the public perception from IMDb movie reviews and drew insig
 1. Designing the optimal pricing strategy of used cars through data mining
 2. Customer Default Prediction
 3. Store Data Scientist project (data acquisition, data cleaning, dealing with missing values, datasets merge with Pandas, EDA (Exploratory Data Analysis), customer segmentation, data insights for targeted marketing campaigns, inventory planning, expansion opportunities, seasonal and trend analysis)
-4. R Studio Project
+4. R Studio Projects within Research Methods and Techniques course
 
 ## Volunteering
 ### PRME Students community (UN Global Impact) - Mentorship Programme Coordinator (_July - December 2024, remote_)
@@ -49,4 +49,4 @@ Analyzed data about the public perception from IMDb movie reviews and drew insig
 
 ### SEBuddy - tutor for incoming exchange students (_December 2021 - May 2025_)
 
-##### Note: Within the assets folder in this repository, you can find some of the PDFs of my course projects and R codes
+#### Note: Within ‘assets’ folder in this repository, you can find some of the PDFs of my course projects and R codes
