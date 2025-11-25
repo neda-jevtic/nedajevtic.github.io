@@ -38,7 +38,15 @@ Analyzed data about the public perception from IMDb movie reviews and drew insig
 
 ### Data Mining (course projects)
 1. Designing the optimal pricing strategy of used cars through data mining
-2. Customer Default Prediction (link to PDF:)
-3. Store Data Scientist project (data acquisition, data cleaning, dealing with missing values, datasets merge with Pandas, EDA (Exploratory Data Analysis), customer segmentation, data insights for targeted marketing campaigns, inventory planning, expansion opportunities, seasonal and trend analysis) (/assets/Data_Mining_course_project_customer_default_prediction.pdf)
+2. Customer Default Prediction
+3. Store Data Scientist project (data acquisition, data cleaning, dealing with missing values, datasets merge with Pandas, EDA (Exploratory Data Analysis), customer segmentation, data insights for targeted marketing campaigns, inventory planning, expansion opportunities, seasonal and trend analysis)
+4. R Studio Project
+
+## Volunteering
+### PRME Students community (UN Global Impact) - Mentorship Programme Coordinator (_July - December 2024_)
+- Project management and coordination of the PGS Careers Mentorship Programme
+- Connected 25+ students from PRME signatory universities with 10+ mentors (industry professionals and university profressors) which helped them improve soft & technical skills within sustainability and increase their employability
+
+### SEBuddy - tutor for incoming exchange students (_December 2021 - May 2025_)
 
 
