@@ -3,7 +3,7 @@
 #### Technical skills: R, SQL, Python, Tableau, PowerBI, RapidMiner, Canva
 
 ## Education
-- Business Informatics | MSc| School of Economics and Business, University of Ljubljana (October, 2025)
+- Business Informatics | MSc | School of Economics and Business, University of Ljubljana (October, 2025)
 - Erasmus+ Study Exchange | Aalto University | Finland (Jan-Jun 2023)
 - International Business | BA | School of Economics and Business, University of Ljubljana (June, 2022)
 
