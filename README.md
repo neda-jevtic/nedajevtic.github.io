@@ -11,11 +11,14 @@
 **Financial Laboratory Instructor and Educator @ School of Economics and Business in Ljubljana (_Aug 2024 - May 2025_)**
 - Designed and delivered workshops on practical usage of financial databases (LSEG Workspace, Fitch Ratings, S&P Capital) to groups of 15+ master’s students each, increasing their job competencies on financial data understanding and ESG data
 - Provided personalised support to students by guiding them through data extraction and visualisation for academic purposes
+- [FinLab website and work galery](https://www.ef.uni-lj.si/cek/icef/finlab)
 
 **International Projects & Administration Assistant @ School of Economics and Business in Ljubljana (_Jan 2024 - May 2025_)**
 - Planned and coordinated Orientation days for 140+ Incoming Exchange students each semester, Ljubljana Summer School 2024, International Staff Weeks and GSERM Winter School
 - Led a group of 25+ tutors for Incoming Exchange students
 - Developed and organised SEBond International event connecting over 45+ students, resulting in a 20% increase in the number of students´ applications for study exchange in the following semester
+- [Orientation Days Spring 2025](https://www.linkedin.com/feed/update/urn:li:activity:7296072941169991680?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_position_details%3BlVkU0gaxQjeOh3FIkiLCYg%3D%3D)
+- fLjubljana Summer School 2024](https://www.linkedin.com/feed/update/urn:li:activity:7222530401351700480?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list_details_modal%3B%2FllEm1UeRZm%2Fl5mHCt19dg%3D%3D)
 
 **Customer Service and Admin Assistant @ Kolpa Adventures d.o.o. (_July 2020 - Sept 2023, seasonal_)**
 - Analysed customer feedback and implemented service enhancements that lifted Google Reviews rating by 11%, driving higher customer trust
