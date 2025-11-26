@@ -41,11 +41,12 @@ Analyzed data about the public perception from IMDb movie reviews and drew insig
 2. Customer Default Prediction
 3. Store Data Scientist project (data acquisition, data cleaning, dealing with missing values, datasets merge with Pandas, EDA (Exploratory Data Analysis), customer segmentation, data insights for targeted marketing campaigns, inventory planning, expansion opportunities, seasonal and trend analysis)
 
-### R studio projects and homeworks (Research Methods and Techniques course)
+### R studio projects and homeworks (Research Methods and Techniques course, UL SEB)
 
 ### SEBond International networking event @ UL SEB
-Brainstormed, designed and organized a networking event connecting 45+ exchange and full-time students to promote studying abroad, resulting in approx. 20% increase in the study abroad applications the following semester
-Link to the video from the event: [SEBond International] (https://www.instagram.com/reel/C6LvsSAIHzD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+[SEBond International](https://www.instagram.com/reel/C6LvsSAIHzD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+- Brainstormed, designed and organized a networking event connecting 45+ exchange and full-time students to promote studying abroad, resulting in approx. 20% increase in the study abroad applications the following semester
+
 
 ## Volunteering
 ### PRME Students community (UN Global Impact) - Mentorship Programme Coordinator (_July - December 2024, remote_)
