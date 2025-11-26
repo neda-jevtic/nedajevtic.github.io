@@ -47,6 +47,8 @@ Analyzed data about the public perception from IMDb movie reviews and drew insig
 
 ### R studio projects and homeworks (Research Methods and Techniques course, UL SEB)
 
+#### Note: Within ‘assets’ folder in my GitHub repository, you can find some of the PDFs of above-mentioned course projects and R codes
+
 ### SEBond International networking event @ UL SEB
 [SEBond International](https://www.instagram.com/reel/C6LvsSAIHzD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 - Brainstormed, designed and organized a networking event connecting 45+ exchange and full-time students to promote studying abroad, resulting in approx. 20% increase in the study abroad applications the following semester
@@ -59,5 +61,3 @@ Analyzed data about the public perception from IMDb movie reviews and drew insig
 - [PRME Students community-Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7240070259448201216?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_position_details%3BJR%2FreWftRHeFFR4qMAlgeg%3D%3D)
 
 ### SEBuddy - tutor for incoming exchange students (_December 2021 - May 2025_)
-
-#### Note: Within ‘assets’ folder in this repository, you can find some of the PDFs of my course projects and R codes
