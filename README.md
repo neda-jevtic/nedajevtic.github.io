@@ -24,23 +24,28 @@
 - Promoted and implemented sustainable tourism practices as part of the Slovenian Green Destination scheme
   
 ## Projects
-### Evaluating prediction algorithms (project within AI with Deep Learning Course)
+### Evaluating prediction algorithms (AI with Deep Learning course, UL SEB)
 
 Liver Disease Prediction: Utilized Python for Machine Learning to build, test and evaluate prediction algorithms in an effort to reduce burden on doctors
 
-### Tableau Analytics Challenge (Aalto University Capstone Project)
+### Tableau Analytics Challenge (Aalto University Capstone Project, Finland)
 
 The Tableau Analytics Challenge competition consisted of the statistics of the Finnish Transport and Communications Agency Traficom and the Finnish Transport Infrastructure Agency, which dealt with accidents and traffic safety in southern Finland. The objective of our team was to create insights based on the data that would help understand the problem areas of road safety. In particular, they were to provide views on how to reduce both the total number of accidents and how to identify dangerous traffic conditions and locations
 
-### Text Mining (course project)
+### Text Mining (AI with Deep Learning course, UL SEB)
 
 Analyzed data about the public perception from IMDb movie reviews and drew insights on the potential of making a sequel
 
-### Data Mining (course projects)
+### Data Mining (Data Mining course, UL SEB)
 1. Designing the optimal pricing strategy of used cars through data mining
 2. Customer Default Prediction
 3. Store Data Scientist project (data acquisition, data cleaning, dealing with missing values, datasets merge with Pandas, EDA (Exploratory Data Analysis), customer segmentation, data insights for targeted marketing campaigns, inventory planning, expansion opportunities, seasonal and trend analysis)
-4. R Studio Projects within Research Methods and Techniques course
+
+### R studio projects and homeworks (Research Methods and Techniques course)
+
+### SEBond International networking event @ UL SEB
+Brainstormed, designed and organized a networking event connecting 45+ exchange and full-time students to promote studying abroad, resulting in approx. 20% increase in the study abroad applications the following semester
+Link to the video from the event: [SEBond International] (https://www.instagram.com/reel/C6LvsSAIHzD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 ## Volunteering
 ### PRME Students community (UN Global Impact) - Mentorship Programme Coordinator (_July - December 2024, remote_)
