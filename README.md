@@ -1,6 +1,6 @@
 # Aspiring Data Scientist
 
-#### Technical skills: R, SQL, Python, Tableau, PowerBI, RapidMiner, Canva
+#### Technical skills: R, Python, SQL, Tableau, PowerBI, RapidMiner, Canva
 
 ## Education
 - Business Informatics | MSc | School of Economics and Business, University of Ljubljana (_October, 2025_)
